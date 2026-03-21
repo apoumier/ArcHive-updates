@@ -1,19 +1,19 @@
 {
-  "version": "0.9.0",
+  "version": "0.9.1",
   "notes": "Voir les commits pour les changements.",
-  "pub_date": "2026-03-21T19:10:11.935Z",
+  "pub_date": "2026-03-21T19:34:47.882Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRc3ZoZk5XcUtpRER1bkJVRXEzVEhHUEZCWjQwUlc0OGVuaElnZXptWjFnY1lPWlhrOXhlVTN3S2QrL1FLYVErc1I4SGdhNVdlQ1Q3dlBDVTR2ODBzdXpoQTFINzNOaWc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc0MTIwMjA5CWZpbGU6QXJjSGl2ZV8wLjkuMF94NjRfZW4tVVMubXNpCnlqaEZadVFXQVVSaHpqNWEwVWtaa056Z0p6UDVnYTFaaFNscjVJeUYxR3ZMaHdPeGhsYklLNzZwODVUQTBDMlNJSzU0NjVSZFdpY0kwK1h4VzVST0RnPT0K",
-      "url": "https://github.com/apoumier/ArcHive-updates/releases/download/v0.9.0/ArcHive_0.9.0_x64_en-US.msi"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRc3ZoZk5XcUtpREtNWkdYS2ZYeXVkUkgxQ3N0anlXbW9kaFI3WEpqWFRyVXNweGhVMDBOTHFwM21JdUxpMExCZVNwNGI5RG1JMWRqS09UMVkyZkxqeExBMmxRVmR4RUE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc0MTIxNjg1CWZpbGU6QXJjSGl2ZV8wLjkuMV94NjRfZW4tVVMubXNpClFwTnFsZ1l3QnhNWWhGZW5BMlAvcUtHNVpSQm40ZXlzaFJsamV6dnBsWE0rTUFpTllRcDU4WGZYblVIVkMwNmF2NnMySlpaY0Irb1pxa0VtOUNiY0FRPT0K",
+      "url": "https://github.com/apoumier/ArcHive-updates/releases/download/v0.9.1/ArcHive_0.9.1_x64_en-US.msi"
     },
     "windows-x86_64-msi": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRc3ZoZk5XcUtpRER1bkJVRXEzVEhHUEZCWjQwUlc0OGVuaElnZXptWjFnY1lPWlhrOXhlVTN3S2QrL1FLYVErc1I4SGdhNVdlQ1Q3dlBDVTR2ODBzdXpoQTFINzNOaWc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc0MTIwMjA5CWZpbGU6QXJjSGl2ZV8wLjkuMF94NjRfZW4tVVMubXNpCnlqaEZadVFXQVVSaHpqNWEwVWtaa056Z0p6UDVnYTFaaFNscjVJeUYxR3ZMaHdPeGhsYklLNzZwODVUQTBDMlNJSzU0NjVSZFdpY0kwK1h4VzVST0RnPT0K",
-      "url": "https://github.com/apoumier/ArcHive-updates/releases/download/v0.9.0/ArcHive_0.9.0_x64_en-US.msi"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRc3ZoZk5XcUtpREtNWkdYS2ZYeXVkUkgxQ3N0anlXbW9kaFI3WEpqWFRyVXNweGhVMDBOTHFwM21JdUxpMExCZVNwNGI5RG1JMWRqS09UMVkyZkxqeExBMmxRVmR4RUE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc0MTIxNjg1CWZpbGU6QXJjSGl2ZV8wLjkuMV94NjRfZW4tVVMubXNpClFwTnFsZ1l3QnhNWWhGZW5BMlAvcUtHNVpSQm40ZXlzaFJsamV6dnBsWE0rTUFpTllRcDU4WGZYblVIVkMwNmF2NnMySlpaY0Irb1pxa0VtOUNiY0FRPT0K",
+      "url": "https://github.com/apoumier/ArcHive-updates/releases/download/v0.9.1/ArcHive_0.9.1_x64_en-US.msi"
     },
     "windows-x86_64-nsis": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRc3ZoZk5XcUtpREE5YVlRL2IzRkpJbFYrL3RadUh2S255djZLNVFidytwdlE1K3dUT1BPTllKU0c1dzZkN1VMYmk1eEo5dmNlcm9od1d0SDVCeWNkUitjeWFwcnhNRXdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc0MTIwMjA5CWZpbGU6QXJjSGl2ZV8wLjkuMF94NjQtc2V0dXAuZXhlCjRlVFJ6T2R2TXJjK3R2K0xQS3ZLcmlETklhKy91YW1KQXJyNGFhQjZJeXhhWXdLS0RwcXN1bnJ2aDJwSVFmeGR0OEZyK0dRSllJU1laQTdNSS9OaER3PT0K",
-      "url": "https://github.com/apoumier/ArcHive-updates/releases/download/v0.9.0/ArcHive_0.9.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRc3ZoZk5XcUtpREZ6YnRVbzRaakZBdFdQVFJvKzJVaUpCeWZSSUJjY2dUekVwbktiVnZxN2kwWWVpV0FyODBKUmo0N0hQeWtiMUVMVDljTFBHMUl2VWhxeG5jaVc0UlFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc0MTIxNjg1CWZpbGU6QXJjSGl2ZV8wLjkuMV94NjQtc2V0dXAuZXhlCjhjN3dyV3YrcmYzeFRya2RwZCtlTTFCYWU3RVk4S1pNMnEzZjFJc2hkaWNiVGRGYmtzTjVvV1hKaXl1K1M2U25MUDMzQ3U3SXFCZ3FYcUpUTWdiRkRnPT0K",
+      "url": "https://github.com/apoumier/ArcHive-updates/releases/download/v0.9.1/ArcHive_0.9.1_x64-setup.exe"
     }
   }
 }
